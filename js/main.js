@@ -1,3 +1,3 @@
 ddd
 
-Javascript add Payment options 
+Javascript add Payment options  
